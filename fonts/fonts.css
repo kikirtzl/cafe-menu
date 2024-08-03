@@ -18,3 +18,10 @@
   font-weight: bold;
   font-style: italic;
 }
+
+@font-face {
+  font-family: Brownies;
+  src: url(FONT/The Brownies.otf);
+  font-weight: normal;
+  font-style: normal;
+}
