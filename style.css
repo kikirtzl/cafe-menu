@@ -1,5 +1,10 @@
+@font-face {
+  font-family: TrueType;
+  src: url(fonts/sf-espresso-shack/TrueType);
+}
+
 body {
-  background-image:url(Espresso-coffee-beans-stock-photo.webp);
+  background-image:url(img/Espresso-coffee-beans-stock-photo.webp);
   padding: 20px;
 }
 
