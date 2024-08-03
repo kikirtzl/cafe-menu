@@ -4,3 +4,17 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: SF Espresso Shack;
+  src: url(sf-espresso-shack/TrueType/SFEspressoShack-Bold.ttf);
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: SF Espresso Shack;
+  src: url(sf-espresso-shack/TrueType/SFEspressoShack-BoldItalic.ttf);
+  font-weight: bold;
+  font-style: italic;
+}
