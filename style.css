@@ -30,16 +30,17 @@ h1, h2 {
 
 .item p {
   display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-.flavour {
+.flavour, .pastry {
   text-align: left;
-  width: 25%;
+  width: 70%;
 }
 
 .price {
   text-align: right;
   width: 25%;
 }
+
