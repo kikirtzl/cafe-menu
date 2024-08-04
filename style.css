@@ -11,6 +11,10 @@ h1 {
   font-size: 45px;
 }
 
+h2 {
+  font-size: 30px;
+}
+
 h1, h2, p {
   text-align: center;
 }
@@ -36,6 +40,8 @@ h1, h2 {
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 5px;
+  font-family: Brownies;
+  font-size: 25px;
 }
 
 .flavour, .pastry {
@@ -54,3 +60,4 @@ img {
   margin-right: auto;
   margin-top: -15px;
 }
+
