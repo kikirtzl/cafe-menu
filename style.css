@@ -79,3 +79,15 @@ hr {
 .bottom-line {
   margin-top: 25px;
 }
+
+a {
+  color: brown; 
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
