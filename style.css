@@ -72,3 +72,10 @@ hr {
   height: 2px;
 }
 
+.top-line {
+  margin-bottom: 25px;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
