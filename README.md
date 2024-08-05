@@ -8,6 +8,7 @@ This project is a code review exercise taken from the site, freecodecamp.com; "L
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Project Structure
 
@@ -86,3 +87,6 @@ Open 'index.html' in your preferred web browser to view the caf menu.
 Contributions are welcome and feel free to add comments, tips, or tricks! Please fork the repo and submit a pull request.
 Thank you!
 
+## Contact 
+
+Created by Kianna Selena Artezuela - feel free to contact me! 
