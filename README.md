@@ -49,7 +49,7 @@ Images
 - Espresso Beans Image:
   (source : <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphicsalon.com%2Fproduct%2Fespresso-coffee-beans-stock-photo%2F&psig=AOvVaw1fTT4xtLDZ8-DXji3pDIHR&ust=1722985003630000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDxoLr53ocDFQAAAAAdAAAAABAE" target="_blank">Graphic Salon</a>)
 
-  Fonts 
+Fonts 
 
   - SF Espresso Shack 
     (source: <a href="https://www.1001fonts.com/sf-espresso-shack-font.html" target="_blank"> SF Espresso Shack</a>)
